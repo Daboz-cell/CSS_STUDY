@@ -1,0 +1,53 @@
+               CSS(CASCADING STYLE SHEETS)
+=>Used to style HTML documents
+
+    Ways to apply CSS:
+1.inline CSS=>written inside the opening tag using the style attribute.
+2.internal CSS=>written in the head section using a style element with selectors
+3.external CSS=>written on a separate  .css file then linked to the html file
+
+          Inline Css
+=>syntax
+style="property:value;"
+
+        Background Properties:
+ 1.background-color
+2.background image
+3.color used to change the text color
+4. Margin Property 
+margin-right
+margin-left
+margin-top
+margin-bottom
+5. Font properties
+color
+font-style
+font-size
+font-weight
+font-family
+6. Padding
+=>Space between an element and its borders
+padding-top,left,right,bottom
+
+
+
+          Position Property
+=>used for controlling the layout of an element on a web page
+=>it determines how an element is positioned in the document flow
+         Position values:
+1.Static(default position)
+=>elements are positioned according to the normal flow of the document
+position:static;
+2..Relative
+=>element remains on its normal position but can be offset relative to its original position.
+3.Absolute
+=>removed from the document flow positioned relative to nearest positioned ancestor
+4.Fixed
+=>removed from the normal flow positioned relative to the browser wimdow
+stays in place even when scrolling
+5.Sticky
+=>switches between relative and fixed
+
+
+
+
